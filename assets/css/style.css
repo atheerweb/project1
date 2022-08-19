@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+
+
+ *{
+    margin:0;
+    padding: 0;
+}
+body{
+max-width:1400px;
+margin:0 auto;
+}
+
+.login__button{
+    color:#53BF9D;
+margin:10px;
+ }
+
+ .joinus__button{
+    background-color:#53BF9D;
+    color: white;
+    width: 100%;
+    padding:8px 32px;
+    height: 56px;
+    border: none;
+}
